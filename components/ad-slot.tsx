@@ -10,7 +10,7 @@ import { useEffect } from "react"
  * NEXT_PUBLIC_ADSENSE_SLOT in your environment to render a live ad unit.
  * When unset, a labeled placeholder is shown instead.
  */
-export function AdSlot({ client, slot }: { client: string; slot: string }) {
+export function AdSlot({ client, slot }: { client: ca-pub-3175478766639012 ; slot: 7830585259 }) {
   const enabled = client.length > 0 && slot.length > 0
 
   useEffect(() => {
