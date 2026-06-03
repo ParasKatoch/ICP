@@ -18,7 +18,7 @@ export function AdSlot({ client, slot }: { client: string; slot: string }) {
   if (!enabled) {
     return (
       <div className="flex h-[90px] w-full max-w-[728px] items-center justify-center rounded-lg border border-dashed border-border bg-muted/40 text-xs text-muted-foreground">
-        Ad space — set NEXT_PUBLIC_ADSENSE_CLIENT and NEXT_PUBLIC_ADSENSE_SLOT
+        POOL Rewards Are Live for Platinum Members
       </div>
     )
   }
