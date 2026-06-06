@@ -7,13 +7,13 @@ const _geist = Geist({ subsets: ["latin"] });
 const _geistMono = Geist_Mono({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: 'CryptoG',
-  description: 'Countdown is on. Copy the address and join the community.',
+  title: 'BethePUMP',
+  description: 'Claim your PUMP',
   generator: 'v0.app',
   icons: {
     icon: [
       {
-        url: '/icon-light-32x32.png',
+        url: 'https://ibb.co/hRjT9hZ7',
         media: '(prefers-color-scheme: light)',
       },
       {
