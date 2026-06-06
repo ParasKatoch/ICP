@@ -46,7 +46,7 @@ export function getSiteConfig(): SiteConfig {
     ),
     copyText: env(
       "NEXT_PUBLIC_COPY_TEXT",
-      "WATCH THIS SPACE FOR CA",
+      "Test 1 2  3",
     ),
     socials: {
       x: env("NEXT_PUBLIC_SOCIAL_X", "https://x.com/bethepump"),
