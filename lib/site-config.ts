@@ -42,11 +42,11 @@ export function getSiteConfig(): SiteConfig {
     // Uses NEXT_PUBLIC_COUNTDOWN_TARGET if set, otherwise the default date below.
     countdownTarget: env(
       "NEXT_PUBLIC_COUNTDOWN_TARGET",
-      "2026-07-26T16:00:00Z",
+      "2026-08-09T16:00:00Z",
     ),
     copyText: env(
       "NEXT_PUBLIC_COPY_TEXT",
-      "89q6aHpZ1fXhuwpnrBgqmCvuAX4GaCrRPQNp5xVHpump",
+      "Watch this space for CA",
     ),
     socials: {
       x: env("NEXT_PUBLIC_SOCIAL_X", "https://x.com/bethepump"),
